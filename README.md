@@ -1,16 +1,16 @@
-Firebase Login with Phone & Google Authentication
+# Firebase Login with Phone & Google Authentication
 
-This Flutter app demonstrates Firebase authentication using Google Sign-In and phone number verification. It includes a simple login page, navigates to the home page after successful login, and implements a profile tab with a “Win Certificate” feature.
+This Flutter app demonstrates Firebase authentication using Google Sign-In and phone number verification. It includes a simple login page, navigates to the home page after successful login, and implements a profile tab with a "Win Certificate" feature.
 
-Features
+## Features
 
-	•	Google Sign-In: Users can log in with their Google account.
-	•	Phone Number Sign-In: Users can sign in with their phone number using OTP.
-	•	Home Page: After login, users are navigated to the home page.
-	•	Profile Tab: Users can view their profile and attempt to win a certificate by answering a question within a limited time.
-	•	Certificate Feature: A countdown timer with the “Win Certificate” page where users have 30 seconds to answer a question.
+- **Google Sign-In**: Users can log in with their Google account.
+- **Phone Number Sign-In**: Users can sign in with their phone number using OTP.
+- **Home Page**: After login, users are navigated to the home page.
+- **Profile Tab**: Users can view their profile and attempt to win a certificate by answering a question within a limited time.
+- **Certificate Feature**: A countdown timer with the "Win Certificate" page where users have 30 seconds to answer a question.
 
-Screenshots
+## Screenshots
 
 <p align="center">
   <img src="assets/screenshot1.png" height="400"/>
@@ -18,13 +18,11 @@ Screenshots
   <img src="assets/screenshot3.png" height="400"/>
 </p>
 
+## Installation
 
-Installation
-
-	1.	Clone the repository:
-
-git clone https://github.com/PrakEntech/FlutterApp.git
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PrakEntech/FlutterApp.git
 
 	2.	Navigate into the project directory:
 

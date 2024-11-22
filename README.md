@@ -24,19 +24,19 @@ This Flutter app demonstrates Firebase authentication using Google Sign-In and p
    ```bash
    git clone https://github.com/PrakEntech/FlutterApp.git
 
-	2.	Navigate into the project directory:
-
-cd FlutterApp
-
-
-	3.	Install dependencies:
-
-flutter pub get
+2.	Navigate into the project directory:
+	```bash
+	cd FlutterApp
 
 
-	4.	Run the app:
+3.	Install dependencies:
+	```bash
+	flutter pub get
 
-flutter run
+
+4.	Run the app:
+   	```bash
+	flutter run
 
 
 

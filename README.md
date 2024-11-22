@@ -13,8 +13,8 @@ This Flutter app demonstrates Firebase authentication using Google Sign-In and p
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshot1.png" height="400"/>
-  <img src="assets/screenshot2.png" height="400"/>
+  <img src="assets/screenshot1.jpg" height="400"/>
+  <img src="assets/screenshot2.jpg" height="400"/>
   <img src="assets/screenshot3.png" height="400"/>
 </p>
 

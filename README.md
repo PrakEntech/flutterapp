@@ -42,18 +42,18 @@ This Flutter app demonstrates Firebase authentication using Google Sign-In and p
 
 Firebase Setup
 
-	1.	Create a Firebase project.
-	2.	Add Firebase Authentication to your Firebase project.
-	3.	Enable Google Sign-In and Phone Authentication in the Firebase Console.
-	4.	Download the google-services.json file and add it to your Flutter project at android/app/.
+	•	Create a Firebase project.
+	•	Add Firebase Authentication to your Firebase project.
+	•	Enable Google Sign-In and Phone Authentication in the Firebase Console.
+	•	Download the google-services.json file and add it to your Flutter project at android/app/.
 
 How to Use
 
-	1.	Login with Google: Tap the “Sign in with Google” button on the login screen to authenticate with Google.
-	2.	Login with Phone: Enter your phone number to receive an OTP for verification.
-	3.	Home Page: After logging in, you will be directed to the HomePage.
-	4.	Profile Tab: Navigate to the Profile tab to see your user profile and win a certificate by answering a question.
-	5.	Win Certificate: After the timer starts, answer the question to win the certificate.
+	•	Login with Google: Tap the “Sign in with Google” button on the login screen to authenticate with Google.
+	•	Login with Phone: Enter your phone number to receive an OTP for verification.
+	•	Home Page: After logging in, you will be directed to the HomePage.
+	•	Profile Tab: Navigate to the Profile tab to see your user profile and win a certificate by answering a question.
+	•	Win Certificate: After the timer starts, answer the question to win the certificate.
 
 Code Overview
 
@@ -91,8 +91,8 @@ Dependencies
 
 Firebase Configuration
 
-	1.	Ensure Firebase is properly initialized in the project.
-	2.	Enable Google Sign-In and Phone Authentication in Firebase.
+	•	Ensure Firebase is properly initialized in the project.
+	•	Enable Google Sign-In and Phone Authentication in Firebase.
 
 Issues & Troubleshooting
 
